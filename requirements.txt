@@ -1,0 +1,7 @@
+Librerías:
+  - pandas
+  - requests
+  - json
+
+python Version: 3.6.15
+pandas Version: 1.4.0
